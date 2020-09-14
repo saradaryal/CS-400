@@ -7,9 +7,9 @@
 // 					 PerformanceAnalysis.java
 //					 PerformanceAnalysisHash.java
 //					 AnalysisTest.java
-// Semester:         CS400 Spring 2018
-// Author(s):		 Brennan Fife, Dustin Li
-// Instructor:       Deb Deppeler 
+// Semester:         CS400 Spring 2019
+// Author(s):		 Sarad Aryal
+// Instructor:       Andrew
 // Bugs:             No known bugs
 //
 //////////////////////////// 80 columns wide //////////////////////////////////

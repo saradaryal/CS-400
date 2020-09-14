@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
  * due to the ability to perform log_m N lookups and
  * linear in-order traversals of the data items.
  * 
- * @author sapan (sapan@cs.wisc.edu)
+ * @author sarad (sarad@cs.wisc.edu)
  *
  * @param <K> key - expect a string that is the type of id for each item
  * @param <V> value - expect a user-defined type that stores all data for a food item
@@ -135,7 +135,7 @@ public class BPTree<K extends Comparable<K>, V> implements BPTreeADT<K, V> {
      * This abstract class represents any type of node in the tree
      * This class is a super class of the LeafNode and InternalNode types.
      * 
-     * @author sapan
+     * @author sarad
      */
     private abstract class Node {
         
@@ -198,7 +198,7 @@ public class BPTree<K extends Comparable<K>, V> implements BPTreeADT<K, V> {
      * and provides implementation of the operations
      * required for internal (non-leaf) nodes.
      * 
-     * @author sapan
+     * @author sarad
      */
     private class InternalNode extends Node {
 
@@ -312,7 +312,7 @@ public class BPTree<K extends Comparable<K>, V> implements BPTreeADT<K, V> {
      * and provides implementation of the operations that
      * required for leaf nodes.
      * 
-     * @author sapan
+     * @author sarad
      */
     private class LeafNode extends Node {
         

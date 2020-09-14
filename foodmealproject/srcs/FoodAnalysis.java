@@ -16,7 +16,7 @@ import javafx.event.EventHandler;
 /**
  * FoodAnalysis helper class. Methods to create a pie chart and 
  * create the food analysis view
- * @author Max Huddleston
+ * @author Sarad Aryal
  *
  */
 public class FoodAnalysis {

@@ -34,7 +34,7 @@ import javafx.scene.layout.VBox;
 
  * Filename:   Main.java
  * Project:    Food Query and Meal Analysis
- * Authors:    Aleks Lesiewicz, Max Huddleston 
+ * Authors:    Sarad Aryal
  * 
  * This class represents the GUI. It sets the main view and calls the additional views when needed.
  */

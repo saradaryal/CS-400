@@ -21,7 +21,7 @@ public class FilterRulesForm {
 	
 	/**
 	 * QueryLine interface. Used to store the two different query lines in the MultiForm
-	 * @author Max Huddleston
+	 * @author Sarad Aryal
 	 *
 	 */
 	interface QueryLine extends NodeWrapperADT {
@@ -34,7 +34,7 @@ public class FilterRulesForm {
 	
 	/**
 	 * A class representing a nutrient query. A two comboboxes and a textfield
-	 * @author Max Huddleston
+	 * @author Sarad Aryal
 	 *
 	 */
 	class NutrientQueryLine implements QueryLine {

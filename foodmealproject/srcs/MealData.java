@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 /**
  * MealData is used to keep track of an individual Meal's food items
- * @author Max Huddleston
+ * @author Sarad Aryal
  *
  */
 public class MealData {
